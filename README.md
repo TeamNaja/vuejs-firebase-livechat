@@ -55,12 +55,17 @@ firebase คือ services ที่เราใช้ได้หลายอ�
 8. เปิด Visual code เปิด Terminal แล้ว npm i
 ![image](https://user-images.githubusercontent.com/71694878/131345880-b003fbda-ccf6-4feb-9cf2-e2a4c05940ad.png)
 npm i
-![image](https://user-images.githubusercontent.com/71694878/131345943-601d6270-8299-4a09-8937-639cf086edb8.png)
+![image](https://user-images.githubusercontent.com/71694878/131346611-5e08aa9f-a483-4365-88fe-db3df279f8f2.png)
 
 
 9. จากนั้นก็ Run เลย 
 npm run serve
 ![image](https://user-images.githubusercontent.com/71694878/131346248-30284cd6-ee85-4117-bffa-5d532a2d280c.png)
 ![image](https://user-images.githubusercontent.com/71694878/131346458-bbb7c79a-ac37-4714-b9ac-5092d62d90d6.png)
+
+
+ก็ Signup เอาใส่ email อะไรก็ได้ password หยังกะได้ 
+แล้วลองเล่นดูโล้ด 
+
 
 
