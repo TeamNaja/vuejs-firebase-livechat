@@ -37,7 +37,15 @@ firebase คือ services ที่เราใช้ได้หลายอ�
 ![image](https://user-images.githubusercontent.com/71694878/131344813-308030e4-7edb-4a08-8fc9-2dea2924574f.png)
 
 
-6. กลับมาหน้า Project Overview แล้วกด ที่  </> ตามรูป
+6. สร้าง Firestore Database ตามนี้ 
+![image](https://user-images.githubusercontent.com/71694878/131347004-f39a6f6a-303d-4a48-9177-9e9aceb1f13c.png)
+![image](https://user-images.githubusercontent.com/71694878/131347032-63f37834-a6c0-40be-9833-ceefa35233c9.png)
+กด Next โล้ด
+![image](https://user-images.githubusercontent.com/71694878/131347067-3ac34469-a39d-4dea-b2a3-2dd1e6cdec10.png)
+เลือกเป็น asia-souteast2 นะ  แล้วก็กด Enable เลย
+
+
+7. กลับมาหน้า Project Overview แล้วกด ที่  </> ตามรูป
 ![image](https://user-images.githubusercontent.com/71694878/131344967-c6dd55d3-4c5e-4c9c-b061-907c6067f2d5.png)
 ตามนี้เลย 
 ![image](https://user-images.githubusercontent.com/71694878/131345044-004a63e1-3b80-441c-97d1-86ffd7a0c8b7.png)
@@ -47,18 +55,18 @@ firebase คือ services ที่เราใช้ได้หลายอ�
 ![image](https://user-images.githubusercontent.com/71694878/131345310-7334413f-aaaa-4b3a-b756-96243eaa83f8.png)
 
 
-7. เสร็จแล้วก็ ลง NPM https://nodejs.org/en/download/
+8. เสร็จแล้วก็ ลง NPM https://nodejs.org/en/download/
 ![image](https://user-images.githubusercontent.com/71694878/131345571-f0245894-f124-4040-9faf-0e0a05bf45fb.png)
 ![image](https://user-images.githubusercontent.com/71694878/131345633-d09a1e27-aba6-43f6-b54a-6897f81a9e6a.png)
 
 
-8. เปิด Visual code เปิด Terminal แล้ว npm i
+9. เปิด Visual code เปิด Terminal แล้ว npm i
 ![image](https://user-images.githubusercontent.com/71694878/131345880-b003fbda-ccf6-4feb-9cf2-e2a4c05940ad.png)
 npm i
 ![image](https://user-images.githubusercontent.com/71694878/131346611-5e08aa9f-a483-4365-88fe-db3df279f8f2.png)
 
 
-9. จากนั้นก็ Run เลย 
+10. จากนั้นก็ Run เลย 
 npm run serve
 ![image](https://user-images.githubusercontent.com/71694878/131346248-30284cd6-ee85-4117-bffa-5d532a2d280c.png)
 ![image](https://user-images.githubusercontent.com/71694878/131346458-bbb7c79a-ac37-4714-b9ac-5092d62d90d6.png)
